@@ -4,7 +4,7 @@ In this repository, i am solving the questions of CS50’s Introduction to Progr
 2. Playback Speed -> playback.py -> In a file called playback.py, implement a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods).
 3. Making Faces -> faces.py -> In a file called faces.py, implement a function called convert that accepts a str as input and returns that same input with any :) converted to 🙂 (otherwise known as a slightly smiling face) and any :( converted to 🙁 (otherwise known as a slightly frowning face). All other text should be returned unchanged.
 4. Einstein -> einstein.py -> In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.
-5. Tip Calculator -> This is link to the problem https://cs50.harvard.edu/python/2022/psets/0/tip/
+5. Tip Calculator ->tip.py -> This is link to the problem https://cs50.harvard.edu/python/2022/psets/0/tip/
 6. Deep Thought -> deep.py -> In deep.py, implement a program that prompts the user for the answer to the Great Question of Life, the Universe and Everything, outputting Yes if the user inputs 42 or (case-insensitively) forty-two or forty two. Otherwise output No.
 7. Home Federal Savings Bank -> bank.py -> In a file called bank.py, implement a program that prompts the user for a greeting. If the greeting starts with “hello”, output $0. If the greeting starts with an “h” (but not “hello”), output $20. Otherwise, output $100. Ignore any leading whitespace in the user’s greeting, and treat the user’s greeting case-insensitively.
-8. 
+8. File Extensions -> extensions.py -> Link to problem  https://cs50.harvard.edu/python/2022/psets/1/extensions/#demo 
